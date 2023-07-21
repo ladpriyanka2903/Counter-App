@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    color: #000;
+    font-family: arial;
+    background: linear-gradient(90deg, #0eb1bd, #8ed8e2 );
+}
+
+.container{
+    text-align: center;
+    margin-top: 20%;
+}
+.counter{
+    font-size: 50px;
+    padding: 10px 20px;
+}
+.button{
+    padding: 10px 20px;
+  
+    
+}
+.btn{
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+    
